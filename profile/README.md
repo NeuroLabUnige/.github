@@ -1,4 +1,4 @@
-# Official MaLGa Vision Code Repository
+# Official NeuroLab Code Repository
 
 
 ## Projects:
