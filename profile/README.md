@@ -2,4 +2,4 @@
 
 
 ## Projects:
-[Markerless BoMI](https://github.com/NeuroLabUnige/markerlessBoMI)-- [Matteo Moro](https://github.com/MoroMatteo)
+[Markerless BoMI](https://github.com/NeuroLabUnige/markerlessBoMI)-- [Matteo Moro](https://github.com/MoroMatteo) & [Fabio Rizzoglio](https://github.com/frinzi)
